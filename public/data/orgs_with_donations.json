@@ -1,0 +1,4730 @@
+[
+    {
+        "Adresa": {
+            "Id": 222325,
+            "Identifikator": null,
+            "MenoUlice": "",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "52",
+            "Psc": "98051",
+            "SupisneCislo": ""
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "47578351",
+        "Id": 225391,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1973-11-01T00:00:00+01:00",
+                "Ico": "",
+                "Id": 225393,
+                "JeVerejnyCinitel": false,
+                "Meno": "Roman",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2023-08-31T00:00:00+02:00",
+                "Priezvisko": "Matheidesz",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1978-01-17T00:00:00+01:00",
+                "Ico": "",
+                "Id": 225394,
+                "JeVerejnyCinitel": false,
+                "Meno": "Peter",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2023-08-31T00:00:00+02:00",
+                "Priezvisko": "Rončák",
+                "TitulPred": null,
+                "TitulZa": null
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "P&R GRUPPE s.r.o.",
+        "Partner": {
+            "CisloVlozky": 41529,
+            "Id": 46106
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2023-08-31T00:00:00+02:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "100",
+                "amt_eur_converted_clean": 100.0,
+                "city": "Veľké Teriakovce",
+                "company_name": "P&R Gruppe s.r.o., IČO 47578351",
+                "date": "9/27/2022",
+                "date_clean": "2022-09-27",
+                "donor_id": "Y0168",
+                "donor_key": "47578351",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2022/VS22_REPUBLIKA.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "REPUBLIKA",
+                "year": "2022"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 222325,
+                    "Identifikator": null,
+                    "MenoUlice": "",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "52",
+                    "Psc": "98051",
+                    "SupisneCislo": ""
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "47578351",
+                "ObchodneMeno": "P&R GRUPPE s.r.o.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2023-08-31T00:00:00+02:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 218371,
+            "Identifikator": null,
+            "MenoUlice": "Považská",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "1706",
+            "Psc": "91101",
+            "SupisneCislo": "35"
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "45303711",
+        "Id": 221322,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1974-10-31T00:00:00+01:00",
+                "Ico": "",
+                "Id": 221324,
+                "JeVerejnyCinitel": false,
+                "Meno": "Patrik",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2023-06-27T00:00:00+02:00",
+                "Priezvisko": "Bujna",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1975-12-20T00:00:00+01:00",
+                "Ico": "",
+                "Id": 221325,
+                "JeVerejnyCinitel": false,
+                "Meno": "Dušan",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2023-06-27T00:00:00+02:00",
+                "Priezvisko": "Michalec",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1972-11-14T00:00:00+01:00",
+                "Ico": "",
+                "Id": 221326,
+                "JeVerejnyCinitel": false,
+                "Meno": "Michal",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2023-06-27T00:00:00+02:00",
+                "Priezvisko": "Ševčík",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1977-04-22T00:00:00+02:00",
+                "Ico": "",
+                "Id": 221327,
+                "JeVerejnyCinitel": false,
+                "Meno": "Miloslav",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2023-06-27T00:00:00+02:00",
+                "Priezvisko": "Šedivec",
+                "TitulPred": null,
+                "TitulZa": null
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "Rádio WOW s.r.o.",
+        "Partner": {
+            "CisloVlozky": 40854,
+            "Id": 45431
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2023-06-27T00:00:00+02:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "4 560",
+                "amt_eur_converted_clean": 4560.0,
+                "city": "Trenčín",
+                "company_name": "Rádio WOW s.r.o., IČO: 45303711",
+                "date": "1/31/2020",
+                "date_clean": "2020-01-31",
+                "donor_id": "Y0195",
+                "donor_key": "45303711",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "vysielanie",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2020/VS_42254515_I_2020_20210727.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "SME RODINA",
+                "year": "2020"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 218371,
+                    "Identifikator": null,
+                    "MenoUlice": "Považská",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "1706",
+                    "Psc": "91101",
+                    "SupisneCislo": "35"
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "45303711",
+                "ObchodneMeno": "Rádio WOW s.r.o.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2023-06-27T00:00:00+02:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 214624,
+            "Identifikator": null,
+            "MenoUlice": "Kapitána Nálepku",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "11",
+            "Psc": "97242",
+            "SupisneCislo": "604"
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "51427117",
+        "Id": 217481,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1986-11-21T00:00:00+01:00",
+                "Ico": "",
+                "Id": 217483,
+                "JeVerejnyCinitel": false,
+                "Meno": "Tatiana",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2023-04-15T00:00:00+02:00",
+                "Priezvisko": "Dobošová",
+                "TitulPred": null,
+                "TitulZa": null
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "DOB BUS s.r.o.",
+        "Partner": {
+            "CisloVlozky": 40115,
+            "Id": 44690
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2023-04-15T00:00:00+02:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "70",
+                "amt_eur_converted_clean": 70.0,
+                "city": "Lehota pod Vtáčnikom",
+                "company_name": "DOB BUS, s.r.o., IČO: 51427117",
+                "date": "10/13/2022",
+                "date_clean": "2022-10-13",
+                "donor_id": "Y0060",
+                "donor_key": "51427117",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2022/VS22_REPUBLIKA.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "REPUBLIKA",
+                "year": "2022"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 214624,
+                    "Identifikator": null,
+                    "MenoUlice": "Kapitána Nálepku",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "11",
+                    "Psc": "97242",
+                    "SupisneCislo": "604"
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "51427117",
+                "ObchodneMeno": "DOB BUS s.r.o.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2023-04-15T00:00:00+02:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 214349,
+            "Identifikator": null,
+            "MenoUlice": "Seredská",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "1035",
+            "Psc": "925 53",
+            "SupisneCislo": "13"
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "46231323",
+        "Id": 217203,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1975-08-07T00:00:00+02:00",
+                "Ico": "",
+                "Id": 217205,
+                "JeVerejnyCinitel": false,
+                "Meno": "Róbert",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2023-04-06T00:00:00+02:00",
+                "Priezvisko": "Tánczos",
+                "TitulPred": "Bc. Ing.",
+                "TitulZa": ""
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "MAPRA Consulting, s.r.o.",
+        "Partner": {
+            "CisloVlozky": 40069,
+            "Id": 44644
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2023-04-06T00:00:00+02:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "500",
+                "amt_eur_converted_clean": 500.0,
+                "city": "Pata",
+                "company_name": "MAPRA Consulting s.r.o., IČO: 46231323",
+                "date": "10/28/2019",
+                "date_clean": "2019-10-28",
+                "donor_id": "Y0287",
+                "donor_key": "46231323",
+                "donor_type": "public sector partner",
+                "flags": [
+                    "vysoké súhrnné bezodplatné plnenie"
+                ],
+                "fulfillment_type": "",
+                "income_type": "finančný dar",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2019/VS_42139333_I_20200730.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "SAS",
+                "year": "2019"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 214349,
+                    "Identifikator": null,
+                    "MenoUlice": "Seredská",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "1035",
+                    "Psc": "925 53",
+                    "SupisneCislo": "13"
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "46231323",
+                "ObchodneMeno": "MAPRA Consulting, s.r.o.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2023-04-06T00:00:00+02:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 214335,
+            "Identifikator": null,
+            "MenoUlice": "Winterova",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "10",
+            "Psc": "92101",
+            "SupisneCislo": "1752"
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "47225718",
+        "Id": 217189,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1978-02-11T00:00:00+01:00",
+                "Ico": "",
+                "Id": 217191,
+                "JeVerejnyCinitel": false,
+                "Meno": "Tomáš",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2023-04-06T00:00:00+02:00",
+                "Priezvisko": "Straka",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1964-04-03T00:00:00+02:00",
+                "Ico": "",
+                "Id": 217192,
+                "JeVerejnyCinitel": false,
+                "Meno": "Martin",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2023-04-06T00:00:00+02:00",
+                "Priezvisko": "Lišhák",
+                "TitulPred": "Ing.",
+                "TitulZa": ""
+            },
+            {
+                "DatumNarodenia": "1996-01-30T00:00:00+01:00",
+                "Ico": "",
+                "Id": 217193,
+                "JeVerejnyCinitel": false,
+                "Meno": "Noemi Mária",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2023-04-06T00:00:00+02:00",
+                "Priezvisko": "Ďurisová",
+                "TitulPred": "Mgr.",
+                "TitulZa": ""
+            },
+            {
+                "DatumNarodenia": "1950-11-03T00:00:00+01:00",
+                "Ico": "",
+                "Id": 217194,
+                "JeVerejnyCinitel": false,
+                "Meno": "Bernard",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2023-04-06T00:00:00+02:00",
+                "Priezvisko": "Bober",
+                "TitulPred": "Mons.",
+                "TitulZa": ""
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "BeneMedia, s.r.o.",
+        "Partner": {
+            "CisloVlozky": 40066,
+            "Id": 44641
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2023-04-06T00:00:00+02:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "4",
+                "amt_eur_converted_clean": 4.0,
+                "city": "Piešťany",
+                "company_name": "BeneMedia, s.r.o.",
+                "date": "2/20/2020",
+                "date_clean": "2020-02-20",
+                "donor_id": "Y0031",
+                "donor_key": "benemedia, s.r.o.",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2020/VS_00586846_I_2020_20210727.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "KDH",
+                "year": "2020"
+            },
+            {
+                "amt_eur_converted": "780",
+                "amt_eur_converted_clean": 780.0,
+                "city": "Piešťany",
+                "company_name": "BeneMedia, s.r.o.",
+                "date": "1/9/2020",
+                "date_clean": "2020-01-09",
+                "donor_id": "Y0031",
+                "donor_key": "benemedia, s.r.o.",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2020/VS_00586846_I_2020_20210727.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "KDH",
+                "year": "2020"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 214335,
+                    "Identifikator": null,
+                    "MenoUlice": "Winterova",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "10",
+                    "Psc": "92101",
+                    "SupisneCislo": "1752"
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "47225718",
+                "ObchodneMeno": "BeneMedia, s.r.o.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2023-04-06T00:00:00+02:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 202026,
+            "Identifikator": null,
+            "MenoUlice": "Rajská",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "7687",
+            "Psc": "81108",
+            "SupisneCislo": "7"
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "50046594",
+        "Id": 204548,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1984-01-05T00:00:00+01:00",
+                "Ico": "",
+                "Id": 204550,
+                "JeVerejnyCinitel": true,
+                "Meno": "Lenka",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2022-11-09T00:00:00+01:00",
+                "Priezvisko": "Jakubčová",
+                "TitulPred": "Mgr.",
+                "TitulZa": ""
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "Advokátska kancelária Jakubčová a partneri, s.r.o.",
+        "Partner": {
+            "CisloVlozky": 38260,
+            "Id": 42814
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2022-11-09T00:00:00+01:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "276",
+                "amt_eur_converted_clean": 276.0,
+                "city": "Bratislava",
+                "company_name": "Advokátska kancelária Jakubčová a partneri, IČO: 50046594",
+                "date": "2/6/2020",
+                "date_clean": "2020-02-06",
+                "donor_id": "Y0006",
+                "donor_key": "50046594",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "finančný dar",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2020/VS_42139333_I_2020_20210727.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "SAS",
+                "year": "2020"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 202026,
+                    "Identifikator": null,
+                    "MenoUlice": "Rajská",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "7687",
+                    "Psc": "81108",
+                    "SupisneCislo": "7"
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "50046594",
+                "ObchodneMeno": "Advokátska kancelária Jakubčová a partneri, s.r.o.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2022-11-09T00:00:00+01:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 197875,
+            "Identifikator": null,
+            "MenoUlice": "Kalinčiakova",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "33",
+            "Psc": "83104",
+            "SupisneCislo": "0"
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "51904446",
+        "Id": 200350,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1954-09-02T00:00:00+02:00",
+                "Ico": "",
+                "Id": 143874,
+                "JeVerejnyCinitel": false,
+                "Meno": "Andrej",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2020-01-14T00:00:00+01:00",
+                "Priezvisko": "Babiš",
+                "TitulPred": "Ing.",
+                "TitulZa": ""
+            },
+            {
+                "DatumNarodenia": "1953-12-06T00:00:00+01:00",
+                "Ico": "",
+                "Id": 143875,
+                "JeVerejnyCinitel": false,
+                "Meno": "Zbyněk",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2020-01-14T00:00:00+01:00",
+                "Priezvisko": "Průša",
+                "TitulPred": "Ing.",
+                "TitulZa": ""
+            },
+            {
+                "DatumNarodenia": "1954-12-03T00:00:00+01:00",
+                "Ico": "",
+                "Id": 143876,
+                "JeVerejnyCinitel": false,
+                "Meno": "Alexej",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2020-01-14T00:00:00+01:00",
+                "Priezvisko": "Bílek",
+                "TitulPred": "JUDr.",
+                "TitulZa": ""
+            },
+            {
+                "DatumNarodenia": "1974-06-14T00:00:00+02:00",
+                "Ico": "",
+                "Id": 143877,
+                "JeVerejnyCinitel": false,
+                "Meno": "Monika",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2020-01-14T00:00:00+01:00",
+                "Priezvisko": "Babišová",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1975-03-12T00:00:00+01:00",
+                "Ico": "",
+                "Id": 143878,
+                "JeVerejnyCinitel": false,
+                "Meno": "Václav",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2020-01-14T00:00:00+01:00",
+                "Priezvisko": "Knotek",
+                "TitulPred": "Mgr.",
+                "TitulZa": ""
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "MAFRA Slovakia, a.s.",
+        "Partner": {
+            "CisloVlozky": 29414,
+            "Id": 33938
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2022-08-04T00:00:00+02:00",
+        "PravnaForma": {
+            "Id": 23,
+            "Meno": "Akciová spoločnosť",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "121"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "788",
+                "amt_eur_converted_clean": 788.0,
+                "city": "Bratislava",
+                "company_name": "MAFRA Slovakia, a.s.; IČO: 51904446",
+                "date": "2/27/2020",
+                "date_clean": "2020-02-27",
+                "donor_id": "Y0285",
+                "donor_key": "51904446",
+                "donor_type": "public sector partner",
+                "flags": [
+                    "vysoké súhrnné bezodplatné plnenie"
+                ],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2020/VS_00677639_I_2020_20210727.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "SNS",
+                "year": "2020"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 197875,
+                    "Identifikator": null,
+                    "MenoUlice": "Kalinčiakova",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "33",
+                    "Psc": "83104",
+                    "SupisneCislo": "0"
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "51904446",
+                "ObchodneMeno": "MAFRA Slovakia, a.s.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2022-08-04T00:00:00+02:00",
+                "PravnaForma": "Akciová spoločnosť"
+            },
+            {
+                "Adresa": {
+                    "Id": 148237,
+                    "Identifikator": null,
+                    "MenoUlice": "Nobelova",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "34",
+                    "Psc": "83605",
+                    "SupisneCislo": "0"
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "51904446",
+                "ObchodneMeno": "MAFRA Slovakia, a.s.",
+                "PlatnostDo": "2022-08-03T23:59:59.9+02:00",
+                "PlatnostOd": "2020-03-03T00:00:00+01:00",
+                "PravnaForma": "Akciová spoločnosť"
+            },
+            {
+                "Adresa": {
+                    "Id": 143690,
+                    "Identifikator": null,
+                    "MenoUlice": "Nobelova",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "34",
+                    "Psc": "83605",
+                    "SupisneCislo": "0"
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "51904446",
+                "ObchodneMeno": "MAFRA Slovakia Print, a.s.",
+                "PlatnostDo": "2020-03-02T23:59:59.9+01:00",
+                "PlatnostOd": "2020-01-14T00:00:00+01:00",
+                "PravnaForma": "Akciová spoločnosť"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 166935,
+            "Identifikator": null,
+            "MenoUlice": "Gajova",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "9",
+            "Psc": "81109",
+            "SupisneCislo": ""
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "47160829",
+        "Id": 168878,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1987-02-05T00:00:00+01:00",
+                "Ico": "",
+                "Id": 168880,
+                "JeVerejnyCinitel": false,
+                "Meno": "Barbora",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2021-02-10T23:59:59.9+01:00",
+                "PlatnostOd": "2021-02-06T00:00:00+01:00",
+                "Priezvisko": "Berezňáková",
+                "TitulPred": "Mgr. art",
+                "TitulZa": ""
+            },
+            {
+                "DatumNarodenia": "1984-06-07T00:00:00+02:00",
+                "Ico": "",
+                "Id": 168881,
+                "JeVerejnyCinitel": false,
+                "Meno": "Eva",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2021-02-10T23:59:59.9+01:00",
+                "PlatnostOd": "2021-02-06T00:00:00+01:00",
+                "Priezvisko": "Šimovičová",
+                "TitulPred": "Mgr. art.",
+                "TitulZa": ""
+            },
+            {
+                "DatumNarodenia": "1985-04-15T00:00:00+02:00",
+                "Ico": "",
+                "Id": 168882,
+                "JeVerejnyCinitel": false,
+                "Meno": "Pavlína",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2021-02-10T23:59:59.9+01:00",
+                "PlatnostOd": "2021-02-06T00:00:00+01:00",
+                "Priezvisko": "Morháčová",
+                "TitulPred": "Mgr. art.",
+                "TitulZa": ""
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "Známa firma s.r.o.",
+        "Partner": {
+            "CisloVlozky": 32813,
+            "Id": 37355
+        },
+        "PlatnostDo": "2021-02-10T23:59:59.9+01:00",
+        "PlatnostOd": "2021-02-06T00:00:00+01:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "50",
+                "amt_eur_converted_clean": 50.0,
+                "city": "Bratislava",
+                "company_name": "Známa Firma s.r.o.",
+                "date": "2/3/2020",
+                "date_clean": "2020-02-03",
+                "donor_id": "Y0269",
+                "donor_key": "známa firma s.r.o.",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "finančný dar",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2020/VS_51224836_I_2020_20210727.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "PS",
+                "year": "2020"
+            },
+            {
+                "amt_eur_converted": "50",
+                "amt_eur_converted_clean": 50.0,
+                "city": "Bratislava",
+                "company_name": "Známa Firma s.r.o.",
+                "date": "2/14/2020",
+                "date_clean": "2020-02-14",
+                "donor_id": "Y0269",
+                "donor_key": "známa firma s.r.o.",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "finančný dar",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2020/VS_51224836_I_2020_20210727.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "PS",
+                "year": "2020"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 166935,
+                    "Identifikator": null,
+                    "MenoUlice": "Gajova",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "9",
+                    "Psc": "81109",
+                    "SupisneCislo": ""
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "47160829",
+                "ObchodneMeno": "Známa firma s.r.o.",
+                "PlatnostDo": "2021-02-10T23:59:59.9+01:00",
+                "PlatnostOd": "2021-02-06T00:00:00+01:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 164814,
+            "Identifikator": null,
+            "MenoUlice": "Hliny",
+            "Mesto": "Považská Bystrica",
+            "MestoKod": null,
+            "OrientacneCislo": "248",
+            "Psc": "01707",
+            "SupisneCislo": "1412"
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "36328375",
+        "Id": 166732,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": null,
+                "Ico": null,
+                "Id": 17860,
+                "JeVerejnyCinitel": false,
+                "Meno": "Anton",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2017-06-19T23:59:59.9+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "Priezvisko": "Haviar",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": null,
+                "Ico": null,
+                "Id": 17861,
+                "JeVerejnyCinitel": false,
+                "Meno": "Peter",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2017-06-19T23:59:59.9+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "Priezvisko": "Klenovič",
+                "TitulPred": "Ing.",
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1960-12-15T00:00:00+01:00",
+                "Ico": "",
+                "Id": 43339,
+                "JeVerejnyCinitel": false,
+                "Meno": "Anton",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2023-07-19T23:59:59.9+02:00",
+                "PlatnostOd": "2017-06-20T00:00:00+02:00",
+                "Priezvisko": "Haviar",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1972-04-03T00:00:00+02:00",
+                "Ico": "",
+                "Id": 43340,
+                "JeVerejnyCinitel": false,
+                "Meno": "Peter",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2017-06-20T00:00:00+02:00",
+                "Priezvisko": "Klenovič",
+                "TitulPred": "Ing.",
+                "TitulZa": ""
+            },
+            {
+                "DatumNarodenia": "1960-12-15T00:00:00+01:00",
+                "Ico": "",
+                "Id": 222709,
+                "JeVerejnyCinitel": false,
+                "Meno": "Anton",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2023-07-20T00:00:00+02:00",
+                "Priezvisko": "Haviar",
+                "TitulPred": "PhDr.",
+                "TitulZa": ""
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "HANT BA, a.s.",
+        "Partner": {
+            "CisloVlozky": 6679,
+            "Id": 6679
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2021-01-15T00:00:00+01:00",
+        "PravnaForma": {
+            "Id": 23,
+            "Meno": "Akciová spoločnosť",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "121"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "332",
+                "amt_eur_converted_clean": 332.0,
+                "city": "Považské Podhradie",
+                "company_name": "HANT BA a.s., IČO: 36328375",
+                "date": "12/31/2005",
+                "date_clean": "2005-12-31",
+                "donor_id": "Y0096",
+                "donor_key": "36328375",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "finančný dar",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.nrsr.sk/web/Static/sk-SK/Finance/2005/SNS.pdf",
+                "name_lastname": "",
+                "note": "prepočítané kurzom 30,126 SKK=1 euro",
+                "party": "SNS",
+                "year": "2005"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 164814,
+                    "Identifikator": null,
+                    "MenoUlice": "Hliny",
+                    "Mesto": "Považská Bystrica",
+                    "MestoKod": null,
+                    "OrientacneCislo": "248",
+                    "Psc": "01707",
+                    "SupisneCislo": "1412"
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "36328375",
+                "ObchodneMeno": "HANT BA, a.s.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2021-01-15T00:00:00+01:00",
+                "PravnaForma": "Akciová spoločnosť"
+            },
+            {
+                "Adresa": {
+                    "Id": 17858,
+                    "Identifikator": null,
+                    "MenoUlice": "Hliny",
+                    "Mesto": "Považská Bystrica",
+                    "MestoKod": null,
+                    "OrientacneCislo": "1412",
+                    "Psc": "01707",
+                    "SupisneCislo": null
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "36328375",
+                "ObchodneMeno": "HANT BA, a.s.",
+                "PlatnostDo": "2021-01-14T23:59:59.9+01:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "PravnaForma": "Akciová spoločnosť"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 164499,
+            "Identifikator": null,
+            "MenoUlice": "Trnavská cesta",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "39/A",
+            "Psc": "831 04",
+            "SupisneCislo": ""
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "00685313",
+        "Id": 166407,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1961-11-14T00:00:00+01:00",
+                "Ico": "",
+                "Id": 41860,
+                "JeVerejnyCinitel": false,
+                "Meno": "Karol",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2018-07-13T23:59:59.9+02:00",
+                "PlatnostOd": "2017-06-14T00:00:00+02:00",
+                "Priezvisko": "Biermann",
+                "TitulPred": "Ing.",
+                "TitulZa": ""
+            },
+            {
+                "DatumNarodenia": "1958-10-26T00:00:00+02:00",
+                "Ico": "",
+                "Id": 107766,
+                "JeVerejnyCinitel": false,
+                "Meno": "Michal",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2020-01-08T23:59:59.9+01:00",
+                "PlatnostOd": "2018-07-14T00:00:00+02:00",
+                "Priezvisko": "Voráček",
+                "TitulPred": "Ing.",
+                "TitulZa": ""
+            },
+            {
+                "DatumNarodenia": "1956-08-03T00:00:00+02:00",
+                "Ico": "",
+                "Id": 107767,
+                "JeVerejnyCinitel": false,
+                "Meno": "Ivo",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2021-10-13T23:59:59.9+02:00",
+                "PlatnostOd": "2018-07-14T00:00:00+02:00",
+                "Priezvisko": "Valenta",
+                "TitulPred": null,
+                "TitulZa": null
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "P E R E X, a. s.",
+        "Partner": {
+            "CisloVlozky": 13129,
+            "Id": 13157
+        },
+        "PlatnostDo": "2021-10-13T23:59:59.9+02:00",
+        "PlatnostOd": "2021-01-12T00:00:00+01:00",
+        "PravnaForma": {
+            "Id": 23,
+            "Meno": "Akciová spoločnosť",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "121"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "3 300",
+                "amt_eur_converted_clean": 3300.0,
+                "city": "Bratislava",
+                "company_name": "PEREX, a.s.; IČO: 00685313",
+                "date": "2/19/2020",
+                "date_clean": "2020-02-19",
+                "donor_id": "Y0172",
+                "donor_key": "00685313",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2020/VS_00677639_I_2020_20210727.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "SNS",
+                "year": "2020"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 164499,
+                    "Identifikator": null,
+                    "MenoUlice": "Trnavská cesta",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "39/A",
+                    "Psc": "831 04",
+                    "SupisneCislo": ""
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "00685313",
+                "ObchodneMeno": "P E R E X, a. s.",
+                "PlatnostDo": "2021-10-13T23:59:59.9+02:00",
+                "PlatnostOd": "2021-01-12T00:00:00+01:00",
+                "PravnaForma": "Akciová spoločnosť"
+            },
+            {
+                "Adresa": {
+                    "Id": 135008,
+                    "Identifikator": null,
+                    "MenoUlice": "Trnavská cesta",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "39/A",
+                    "Psc": "831 04",
+                    "SupisneCislo": ""
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "00685313",
+                "ObchodneMeno": "P E R E X, a. s.",
+                "PlatnostDo": "2021-01-11T23:59:59.9+01:00",
+                "PlatnostOd": "2019-08-27T00:00:00+02:00",
+                "PravnaForma": "Akciová spoločnosť"
+            },
+            {
+                "Adresa": {
+                    "Id": 41756,
+                    "Identifikator": null,
+                    "MenoUlice": "Trnavská cesta",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "39/A",
+                    "Psc": "831 04",
+                    "SupisneCislo": ""
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "00685313",
+                "ObchodneMeno": "P E R E X , a. s.",
+                "PlatnostDo": "2019-08-26T23:59:59.9+02:00",
+                "PlatnostOd": "2017-06-14T00:00:00+02:00",
+                "PravnaForma": "Akciová spoločnosť"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 162605,
+            "Identifikator": null,
+            "MenoUlice": "Trenčianska",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "55",
+            "Psc": "82109",
+            "SupisneCislo": "705"
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "47545674",
+        "Id": 164453,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1968-04-15T00:00:00+02:00",
+                "Ico": "",
+                "Id": 164455,
+                "JeVerejnyCinitel": false,
+                "Meno": "Ivan",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2022-01-10T23:59:59.9+01:00",
+                "PlatnostOd": "2020-12-04T00:00:00+01:00",
+                "Priezvisko": "Peller",
+                "TitulPred": "Ing.",
+                "TitulZa": ""
+            },
+            {
+                "DatumNarodenia": "1968-02-19T00:00:00+01:00",
+                "Ico": "",
+                "Id": 164456,
+                "JeVerejnyCinitel": false,
+                "Meno": "Ladislav",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2022-01-10T23:59:59.9+01:00",
+                "PlatnostOd": "2020-12-04T00:00:00+01:00",
+                "Priezvisko": "Strašil",
+                "TitulPred": "Ing.",
+                "TitulZa": ""
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "NUBIUM, s. r. o.",
+        "Partner": {
+            "CisloVlozky": 32087,
+            "Id": 36629
+        },
+        "PlatnostDo": "2022-01-10T23:59:59.9+01:00",
+        "PlatnostOd": "2020-12-04T00:00:00+01:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "9 600",
+                "amt_eur_converted_clean": 9600.0,
+                "city": "Bratislava",
+                "company_name": "NUBIUM s.r.o., IČO: 47545674",
+                "date": "4/2/2020",
+                "date_clean": "2020-04-02",
+                "donor_id": "Y0162",
+                "donor_key": "47545674",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "reklamná plocha",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2020/VS_42139333_I_2020_20210727.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "SAS",
+                "year": "2020"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 162605,
+                    "Identifikator": null,
+                    "MenoUlice": "Trenčianska",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "55",
+                    "Psc": "82109",
+                    "SupisneCislo": "705"
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "47545674",
+                "ObchodneMeno": "NUBIUM, s. r. o.",
+                "PlatnostDo": "2022-01-10T23:59:59.9+01:00",
+                "PlatnostOd": "2020-12-04T00:00:00+01:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 160222,
+            "Identifikator": null,
+            "MenoUlice": "Komenského",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "1681/35",
+            "Psc": "92705",
+            "SupisneCislo": "0"
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "36819824",
+        "Id": 161997,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1967-05-25T00:00:00+02:00",
+                "Ico": "",
+                "Id": 161999,
+                "JeVerejnyCinitel": true,
+                "Meno": "Peter",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2020-10-16T00:00:00+02:00",
+                "Priezvisko": "Andráši",
+                "TitulPred": "Ing.",
+                "TitulZa": ""
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "SUPRAVIS SLOVAKIA, s.r.o.",
+        "Partner": {
+            "CisloVlozky": 31665,
+            "Id": 36207
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2020-10-16T00:00:00+02:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "250",
+                "amt_eur_converted_clean": 250.0,
+                "city": "Šaľa",
+                "company_name": "SUPRAVIS SLOVAKIA, Andráši, IČO: 36819824",
+                "date": "1/7/2020",
+                "date_clean": "2020-01-07",
+                "donor_id": "Y0223",
+                "donor_key": "36819824",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "finančný dar",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2020/VS_42139333_I_2020_20210727.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "SAS",
+                "year": "2020"
+            },
+            {
+                "amt_eur_converted": "700",
+                "amt_eur_converted_clean": 700.0,
+                "city": "Šaľa",
+                "company_name": "SUPRAVIS SLOVAKIA, Andráši, IČO: 36819824",
+                "date": "2/12/2020",
+                "date_clean": "2020-02-12",
+                "donor_id": "Y0223",
+                "donor_key": "36819824",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "finančný dar",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2020/VS_42139333_I_2020_20210727.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "SAS",
+                "year": "2020"
+            },
+            {
+                "amt_eur_converted": "200",
+                "amt_eur_converted_clean": 200.0,
+                "city": "Šaľa",
+                "company_name": "SUPRAVIS SLOVAKIA, Andráši, IČO: 36819824",
+                "date": "2/25/2020",
+                "date_clean": "2020-02-25",
+                "donor_id": "Y0223",
+                "donor_key": "36819824",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "finančný dar",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2020/VS_42139333_I_2020_20210727.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "SAS",
+                "year": "2020"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 160222,
+                    "Identifikator": null,
+                    "MenoUlice": "Komenského",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "1681/35",
+                    "Psc": "92705",
+                    "SupisneCislo": "0"
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "36819824",
+                "ObchodneMeno": "SUPRAVIS SLOVAKIA, s.r.o.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2020-10-16T00:00:00+02:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 154349,
+            "Identifikator": null,
+            "MenoUlice": "Mlynské Nivy",
+            "Mesto": "Bratislava",
+            "MestoKod": null,
+            "OrientacneCislo": "56",
+            "Psc": "82105",
+            "SupisneCislo": ""
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "45628246",
+        "Id": 155949,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": null,
+                "Ico": null,
+                "Id": 17199,
+                "JeVerejnyCinitel": false,
+                "Meno": "Milan",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2017-07-17T23:59:59.9+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "Priezvisko": "Orlovský",
+                "TitulPred": "Ing.",
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": null,
+                "Ico": null,
+                "Id": 17200,
+                "JeVerejnyCinitel": false,
+                "Meno": "Branislav",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2017-07-17T23:59:59.9+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "Priezvisko": "Koreň",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1972-08-31T00:00:00+02:00",
+                "Ico": "",
+                "Id": 57048,
+                "JeVerejnyCinitel": false,
+                "Meno": "Milan",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2017-07-18T00:00:00+02:00",
+                "Priezvisko": "Orlovský",
+                "TitulPred": "Ing.",
+                "TitulZa": ""
+            },
+            {
+                "DatumNarodenia": "1971-05-11T00:00:00+02:00",
+                "Ico": "",
+                "Id": 57049,
+                "JeVerejnyCinitel": false,
+                "Meno": "Branislav",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2017-07-18T00:00:00+02:00",
+                "Priezvisko": "Koreň",
+                "TitulPred": null,
+                "TitulZa": null
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "KOOR, s.r.o.",
+        "Partner": {
+            "CisloVlozky": 6439,
+            "Id": 6439
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2020-06-09T00:00:00+02:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "100",
+                "amt_eur_converted_clean": 100.0,
+                "city": "Bratislava",
+                "company_name": "KOOR, s.r.o.",
+                "date": "2/22/2016",
+                "date_clean": "2016-02-22",
+                "donor_id": "Y0126",
+                "donor_key": "koor, s.r.o.",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "finančný dar",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2016/VS_00586846_I_2016_20170725.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "KDH",
+                "year": "2016"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 154349,
+                    "Identifikator": null,
+                    "MenoUlice": "Mlynské Nivy",
+                    "Mesto": "Bratislava",
+                    "MestoKod": null,
+                    "OrientacneCislo": "56",
+                    "Psc": "82105",
+                    "SupisneCislo": ""
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "45628246",
+                "ObchodneMeno": "KOOR, s.r.o.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2020-06-09T00:00:00+02:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            },
+            {
+                "Adresa": {
+                    "Id": 17197,
+                    "Identifikator": null,
+                    "MenoUlice": "Bajzova",
+                    "Mesto": "Bratislava",
+                    "MestoKod": null,
+                    "OrientacneCislo": "1",
+                    "Psc": "82108",
+                    "SupisneCislo": null
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "45628246",
+                "ObchodneMeno": "KOOR, s.r.o.",
+                "PlatnostDo": "2020-06-08T23:59:59.9+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 151703,
+            "Identifikator": null,
+            "MenoUlice": "Šoltésova",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "0",
+            "Psc": "01701",
+            "SupisneCislo": "421"
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "36316202",
+        "Id": 153267,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1971-12-15T00:00:00+01:00",
+                "Ico": "",
+                "Id": 153269,
+                "JeVerejnyCinitel": false,
+                "Meno": "Ľubica",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2020-04-07T00:00:00+02:00",
+                "Priezvisko": "Haviarová",
+                "TitulPred": "JUDr.",
+                "TitulZa": "PhD."
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "G 3 Plus, s.r.o.",
+        "Partner": {
+            "CisloVlozky": 30253,
+            "Id": 34787
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2020-04-07T00:00:00+02:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "332",
+                "amt_eur_converted_clean": 332.0,
+                "city": "Považská Bystrica",
+                "company_name": "C 3 PLUS s.r.o., IČO: 36316202",
+                "date": "12/31/2005",
+                "date_clean": "2005-12-31",
+                "donor_id": "Y0038",
+                "donor_key": "36316202",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "finančný dar",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.nrsr.sk/web/Static/sk-SK/Finance/2005/SNS.pdf",
+                "name_lastname": "",
+                "note": "prepočítané kurzom 30,126 SKK=1 euro",
+                "party": "SNS",
+                "year": "2005"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 151703,
+                    "Identifikator": null,
+                    "MenoUlice": "Šoltésova",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "0",
+                    "Psc": "01701",
+                    "SupisneCislo": "421"
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "36316202",
+                "ObchodneMeno": "G 3 Plus, s.r.o.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2020-04-07T00:00:00+02:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 148210,
+            "Identifikator": null,
+            "MenoUlice": "Pribinova",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "16",
+            "Psc": "02201",
+            "SupisneCislo": ""
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "FyzickaOsobaPodnikatel",
+        "Ico": "14161923",
+        "Id": 148678,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1944-04-09T00:00:00+02:00",
+                "Ico": "",
+                "Id": 32064,
+                "JeVerejnyCinitel": false,
+                "Meno": "Jozef",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2020-03-02T23:59:59.9+01:00",
+                "PlatnostOd": "2017-03-29T00:00:00+02:00",
+                "Priezvisko": "Kondek",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1974-04-14T00:00:00+02:00",
+                "Ico": "",
+                "Id": 148680,
+                "JeVerejnyCinitel": false,
+                "Meno": "Jozef",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2020-12-23T23:59:59.9+01:00",
+                "PlatnostOd": "2020-03-03T00:00:00+01:00",
+                "Priezvisko": "Kondek",
+                "TitulPred": null,
+                "TitulZa": null
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "Jozef Kondek - JOKO a syn",
+        "Partner": {
+            "CisloVlozky": 11424,
+            "Id": 11425
+        },
+        "PlatnostDo": "2020-12-23T23:59:59.9+01:00",
+        "PlatnostOd": "2020-03-03T00:00:00+01:00",
+        "PravnaForma": null,
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "858",
+                "amt_eur_converted_clean": 858.0,
+                "city": "Čadca",
+                "company_name": "Jozef Kondek - JOKO a syn",
+                "date": "2015",
+                "date_clean": "2015",
+                "donor_id": "Y0117",
+                "donor_key": "jozef kondek - joko a syn",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2015/VS_42362644_I_2015_20160728.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "Sieť",
+                "year": "2015"
+            },
+            {
+                "amt_eur_converted": "240",
+                "amt_eur_converted_clean": 240.0,
+                "city": "Čadca",
+                "company_name": "Jozef Kondek - JOKO a syn",
+                "date": "2015",
+                "date_clean": "2015",
+                "donor_id": "Y0117",
+                "donor_key": "jozef kondek - joko a syn",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2015/VS_42362644_I_2015_20160728.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "Sieť",
+                "year": "2015"
+            },
+            {
+                "amt_eur_converted": "1 080",
+                "amt_eur_converted_clean": 1080.0,
+                "city": "Čadca",
+                "company_name": "Jozef Kondek - JOKO a syn",
+                "date": "2015",
+                "date_clean": "2015",
+                "donor_id": "Y0117",
+                "donor_key": "jozef kondek - joko a syn",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2015/VS_42362644_I_2015_20160728.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "Sieť",
+                "year": "2015"
+            },
+            {
+                "amt_eur_converted": "540",
+                "amt_eur_converted_clean": 540.0,
+                "city": "Čadca",
+                "company_name": "Jozef Kondek - JOKO a syn",
+                "date": "2016",
+                "date_clean": "2016",
+                "donor_id": "Y0117",
+                "donor_key": "jozef kondek - joko a syn",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2016/VS_42362644_I_2016_20170725.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "Sieť",
+                "year": "2016"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 148210,
+                    "Identifikator": null,
+                    "MenoUlice": "Pribinova",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "16",
+                    "Psc": "02201",
+                    "SupisneCislo": ""
+                },
+                "FormaOsoby": "FyzickaOsobaPodnikatel",
+                "Ico": "14161923",
+                "ObchodneMeno": "Jozef Kondek - JOKO a syn",
+                "PlatnostDo": "2020-12-23T23:59:59.9+01:00",
+                "PlatnostOd": "2020-03-03T00:00:00+01:00",
+                "PravnaForma": "N/A"
+            },
+            {
+                "Adresa": {
+                    "Id": 32048,
+                    "Identifikator": null,
+                    "MenoUlice": "Pribinova",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "16",
+                    "Psc": "02201",
+                    "SupisneCislo": ""
+                },
+                "FormaOsoby": "FyzickaOsobaPodnikatel",
+                "Ico": "14161923",
+                "ObchodneMeno": "Jozef Kondek - JOKO a syn",
+                "PlatnostDo": "2020-03-02T23:59:59.9+01:00",
+                "PlatnostOd": "2017-03-29T00:00:00+02:00",
+                "PravnaForma": "N/A"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 148188,
+            "Identifikator": null,
+            "MenoUlice": "Bajkalská",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "19B",
+            "Psc": "821 01",
+            "SupisneCislo": ""
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "35808683",
+        "Id": 148656,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1991-07-19T00:00:00+02:00",
+                "Ico": "",
+                "Id": 106533,
+                "JeVerejnyCinitel": false,
+                "Meno": "Felix Justus",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2019-02-21T23:59:59.9+01:00",
+                "PlatnostOd": "2018-06-20T00:00:00+02:00",
+                "Priezvisko": "Freund",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1953-06-17T00:00:00+02:00",
+                "Ico": "",
+                "Id": 106534,
+                "JeVerejnyCinitel": false,
+                "Meno": "Lilienne Ingrid",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2018-07-10T23:59:59.9+02:00",
+                "PlatnostOd": "2018-06-20T00:00:00+02:00",
+                "Priezvisko": "Freund",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1952-01-29T00:00:00+01:00",
+                "Ico": "",
+                "Id": 106535,
+                "JeVerejnyCinitel": false,
+                "Meno": "Hans Joachim",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2018-06-20T00:00:00+02:00",
+                "Priezvisko": "Freund",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1953-06-17T00:00:00+02:00",
+                "Ico": "",
+                "Id": 107547,
+                "JeVerejnyCinitel": false,
+                "Meno": "Lilienne Ingrid",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2018-07-11T00:00:00+02:00",
+                "Priezvisko": "Freund",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1991-07-19T00:00:00+02:00",
+                "Ico": "",
+                "Id": 121029,
+                "JeVerejnyCinitel": false,
+                "Meno": "Felix Justus",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2020-03-02T23:59:59.9+01:00",
+                "PlatnostOd": "2019-02-22T00:00:00+01:00",
+                "Priezvisko": "Freund",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1991-07-19T00:00:00+02:00",
+                "Ico": "",
+                "Id": 148657,
+                "JeVerejnyCinitel": false,
+                "Meno": "Felix Justus",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2021-03-02T23:59:59.9+01:00",
+                "PlatnostOd": "2020-03-03T00:00:00+01:00",
+                "Priezvisko": "Freund",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1991-07-19T00:00:00+02:00",
+                "Ico": "",
+                "Id": 171416,
+                "JeVerejnyCinitel": false,
+                "Meno": "Felix Justus",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2022-08-15T23:59:59.9+02:00",
+                "PlatnostOd": "2021-03-03T00:00:00+01:00",
+                "Priezvisko": "Freund",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1991-07-19T00:00:00+02:00",
+                "Ico": "",
+                "Id": 200799,
+                "JeVerejnyCinitel": false,
+                "Meno": "Felix Justus",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2022-08-16T00:00:00+02:00",
+                "Priezvisko": "Freund",
+                "TitulPred": null,
+                "TitulZa": null
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "euroAWK, spol. s r. o.",
+        "Partner": {
+            "CisloVlozky": 23714,
+            "Id": 26199
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2020-03-03T00:00:00+01:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "809",
+                "amt_eur_converted_clean": 809.0,
+                "city": "Bratislava",
+                "company_name": "euroAWK, spol. s.r.o.; IČO 35808683",
+                "date": "2/6/2020",
+                "date_clean": "2020-02-06",
+                "donor_id": "Y0077",
+                "donor_key": "35808683",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2020/VS_00677639_I_2020_20210727.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "SNS",
+                "year": "2020"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 148188,
+                    "Identifikator": null,
+                    "MenoUlice": "Bajkalská",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "19B",
+                    "Psc": "821 01",
+                    "SupisneCislo": ""
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "35808683",
+                "ObchodneMeno": "euroAWK, spol. s r. o.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2020-03-03T00:00:00+01:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            },
+            {
+                "Adresa": {
+                    "Id": 108060,
+                    "Identifikator": null,
+                    "MenoUlice": "Brečtanová",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "2",
+                    "Psc": "831 01",
+                    "SupisneCislo": ""
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "35808683",
+                "ObchodneMeno": "euroAWK, spol. s r. o.",
+                "PlatnostDo": "2020-03-02T23:59:59.9+01:00",
+                "PlatnostOd": "2018-06-20T00:00:00+02:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 133761,
+            "Identifikator": null,
+            "MenoUlice": "Horárska",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "27",
+            "Psc": "08001",
+            "SupisneCislo": ""
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "45369356",
+        "Id": 132780,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1968-06-14T00:00:00+02:00",
+                "Ico": "",
+                "Id": 132782,
+                "JeVerejnyCinitel": false,
+                "Meno": "Katarína",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2019-08-07T00:00:00+02:00",
+                "Priezvisko": "Dušenková",
+                "TitulPred": "Ing.",
+                "TitulZa": ""
+            },
+            {
+                "DatumNarodenia": "1967-02-26T00:00:00+01:00",
+                "Ico": "",
+                "Id": 132783,
+                "JeVerejnyCinitel": false,
+                "Meno": "Jozef",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2019-08-07T00:00:00+02:00",
+                "Priezvisko": "Dušenka",
+                "TitulPred": "Ing.",
+                "TitulZa": ""
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "LEDEKON s.r.o.",
+        "Partner": {
+            "CisloVlozky": 27751,
+            "Id": 32261
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2019-08-07T00:00:00+02:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "672",
+                "amt_eur_converted_clean": 672.0,
+                "city": "Prešov",
+                "company_name": "LEDEKON s.r.o., IČO: 45369356",
+                "date": "1/23/2020",
+                "date_clean": "2020-01-23",
+                "donor_id": "Y0132",
+                "donor_key": "45369356",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "finančný dar",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2020/VS_42254515_I_2020_20210727.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "SME RODINA",
+                "year": "2020"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 133761,
+                    "Identifikator": null,
+                    "MenoUlice": "Horárska",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "27",
+                    "Psc": "08001",
+                    "SupisneCislo": ""
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "45369356",
+                "ObchodneMeno": "LEDEKON s.r.o.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2019-08-07T00:00:00+02:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 129335,
+            "Identifikator": null,
+            "MenoUlice": "Palisády",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "29/A",
+            "Psc": "81106",
+            "SupisneCislo": ""
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "47237601",
+        "Id": 128315,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1969-10-23T00:00:00+02:00",
+                "Ico": "",
+                "Id": 128317,
+                "JeVerejnyCinitel": false,
+                "Meno": "Anton",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2019-06-08T00:00:00+02:00",
+                "Priezvisko": "Siekel",
+                "TitulPred": "Ing.",
+                "TitulZa": ""
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "FPD Media, a.s.",
+        "Partner": {
+            "CisloVlozky": 27115,
+            "Id": 30624
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2019-06-08T00:00:00+02:00",
+        "PravnaForma": {
+            "Id": 23,
+            "Meno": "Akciová spoločnosť",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "121"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "38 580",
+                "amt_eur_converted_clean": 38580.0,
+                "city": "Bratislava",
+                "company_name": "FDP Media, a.s.; IČO: 47237601",
+                "date": "12/21/2019",
+                "date_clean": "2019-12-21",
+                "donor_id": "Y0081",
+                "donor_key": "47237601",
+                "donor_type": "public sector partner",
+                "flags": [
+                    "vysoké bezodplatné plnenie",
+                    "vysoké súhrnné bezodplatné plnenie"
+                ],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2019/VS_00677639_I_20200730.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "SNS",
+                "year": "2019"
+            },
+            {
+                "amt_eur_converted": "46 047",
+                "amt_eur_converted_clean": 46047.0,
+                "city": "Bratislava",
+                "company_name": "FDP Media, a.s.; IČO: 47237601",
+                "date": "2/27/2020",
+                "date_clean": "2020-02-27",
+                "donor_id": "Y0081",
+                "donor_key": "47237601",
+                "donor_type": "public sector partner",
+                "flags": [
+                    "vysoké bezodplatné plnenie",
+                    "vysoké súhrnné bezodplatné plnenie"
+                ],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2020/VS_00677639_I_2020_20210727.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "SNS",
+                "year": "2020"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 129335,
+                    "Identifikator": null,
+                    "MenoUlice": "Palisády",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "29/A",
+                    "Psc": "81106",
+                    "SupisneCislo": ""
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "47237601",
+                "ObchodneMeno": "FPD Media, a.s.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2019-06-08T00:00:00+02:00",
+                "PravnaForma": "Akciová spoločnosť"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 121891,
+            "Identifikator": null,
+            "MenoUlice": "Karadžičova",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "39",
+            "Psc": "811 07",
+            "SupisneCislo": ""
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "50465431",
+        "Id": 120713,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1988-02-05T00:00:00+01:00",
+                "Ico": "",
+                "Id": 97332,
+                "JeVerejnyCinitel": false,
+                "Meno": "Juraj",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2019-02-18T23:59:59.9+01:00",
+                "PlatnostOd": "2018-01-24T00:00:00+01:00",
+                "Priezvisko": "Kadlec",
+                "TitulPred": "Ing.",
+                "TitulZa": ""
+            },
+            {
+                "DatumNarodenia": "1988-02-05T00:00:00+01:00",
+                "Ico": "",
+                "Id": 120714,
+                "JeVerejnyCinitel": false,
+                "Meno": "Juraj",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2022-01-17T23:59:59.9+01:00",
+                "PlatnostOd": "2019-02-19T00:00:00+01:00",
+                "Priezvisko": "Kadlec",
+                "TitulPred": "Ing.",
+                "TitulZa": ""
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "INNOVATIONS s. r. o.",
+        "Partner": {
+            "CisloVlozky": 21936,
+            "Id": 24405
+        },
+        "PlatnostDo": "2022-01-17T23:59:59.9+01:00",
+        "PlatnostOd": "2019-02-19T00:00:00+01:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "100",
+                "amt_eur_converted_clean": 100.0,
+                "city": "Bratislava",
+                "company_name": "INNOVATIONS s. r. o.",
+                "date": "9/29/2022",
+                "date_clean": "2022-09-29",
+                "donor_id": "Y0108",
+                "donor_key": "innovations s. r. o.",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "finančný dar",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2022/VS22_TeamBA.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "TEAM BRATISLAVA",
+                "year": "2022"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 121891,
+                    "Identifikator": null,
+                    "MenoUlice": "Karadžičova",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "39",
+                    "Psc": "811 07",
+                    "SupisneCislo": ""
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "50465431",
+                "ObchodneMeno": "INNOVATIONS s. r. o.",
+                "PlatnostDo": "2022-01-17T23:59:59.9+01:00",
+                "PlatnostOd": "2019-02-19T00:00:00+01:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            },
+            {
+                "Adresa": {
+                    "Id": 98950,
+                    "Identifikator": null,
+                    "MenoUlice": "Pribinova",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "28",
+                    "Psc": "92001",
+                    "SupisneCislo": ""
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "50465431",
+                "ObchodneMeno": "INNOVATIONS s. r. o.",
+                "PlatnostDo": "2019-02-18T23:59:59.9+01:00",
+                "PlatnostOd": "2018-01-24T00:00:00+01:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 117136,
+            "Identifikator": null,
+            "MenoUlice": "Dvořákovo nábrežie",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "8A",
+            "Psc": "81102",
+            "SupisneCislo": ""
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "45456178",
+        "Id": 115719,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1978-12-11T00:00:00+01:00",
+                "Ico": "",
+                "Id": 115721,
+                "JeVerejnyCinitel": false,
+                "Meno": "Štefan",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2020-06-03T23:59:59.9+02:00",
+                "PlatnostOd": "2018-12-07T00:00:00+01:00",
+                "Priezvisko": "Holý",
+                "TitulPred": "Mgr.",
+                "TitulZa": ""
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "NOESIS Strategies, s.r.o.",
+        "Partner": {
+            "CisloVlozky": 25350,
+            "Id": 27851
+        },
+        "PlatnostDo": "2020-06-03T23:59:59.9+02:00",
+        "PlatnostOd": "2018-12-07T00:00:00+01:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "576",
+                "amt_eur_converted_clean": 576.0,
+                "city": "Bratislava",
+                "company_name": "NOESIS Strategies s.r.o., IČO: 45456178",
+                "date": "2/26/2020",
+                "date_clean": "2020-02-26",
+                "donor_id": "Y0157",
+                "donor_key": "45456178",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "finančný dar",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2020/VS_42254515_I_2020_20210727.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "SME RODINA",
+                "year": "2020"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 117136,
+                    "Identifikator": null,
+                    "MenoUlice": "Dvořákovo nábrežie",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "8A",
+                    "Psc": "81102",
+                    "SupisneCislo": ""
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "45456178",
+                "ObchodneMeno": "NOESIS Strategies, s.r.o.",
+                "PlatnostDo": "2020-06-03T23:59:59.9+02:00",
+                "PlatnostOd": "2018-12-07T00:00:00+01:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 116906,
+            "Identifikator": null,
+            "MenoUlice": "Einsteinova",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "25",
+            "Psc": "851 01",
+            "SupisneCislo": ""
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "47256281",
+        "Id": 115480,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1971-07-22T00:00:00+02:00",
+                "Ico": "",
+                "Id": 115482,
+                "JeVerejnyCinitel": false,
+                "Meno": "Ján",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2019-02-13T23:59:59.9+01:00",
+                "PlatnostOd": "2018-12-04T00:00:00+01:00",
+                "Priezvisko": "Jerga",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1969-07-18T00:00:00+02:00",
+                "Ico": "",
+                "Id": 115483,
+                "JeVerejnyCinitel": false,
+                "Meno": "Marek",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2018-12-04T00:00:00+01:00",
+                "Priezvisko": "Dospiva",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1969-08-30T00:00:00+02:00",
+                "Ico": "",
+                "Id": 115484,
+                "JeVerejnyCinitel": false,
+                "Meno": "Jaroslav",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2018-12-04T00:00:00+01:00",
+                "Priezvisko": "Haščák",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1973-10-20T00:00:00+02:00",
+                "Ico": "",
+                "Id": 177279,
+                "JeVerejnyCinitel": false,
+                "Meno": "Valeria",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2021-06-22T00:00:00+02:00",
+                "Priezvisko": "Haščáková",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "2011-03-29T00:00:00+02:00",
+                "Ico": "",
+                "Id": 177280,
+                "JeVerejnyCinitel": false,
+                "Meno": "Jakub",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2021-06-22T00:00:00+02:00",
+                "Priezvisko": "Haščák",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "2012-11-25T00:00:00+01:00",
+                "Ico": "",
+                "Id": 177281,
+                "JeVerejnyCinitel": false,
+                "Meno": "Martin",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2021-06-22T00:00:00+02:00",
+                "Priezvisko": "Haščák",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1977-08-13T00:00:00+02:00",
+                "Ico": "",
+                "Id": 191633,
+                "JeVerejnyCinitel": false,
+                "Meno": "Marek",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2022-03-02T00:00:00+01:00",
+                "Priezvisko": "Peterčák",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1984-09-24T00:00:00+02:00",
+                "Ico": "",
+                "Id": 191634,
+                "JeVerejnyCinitel": false,
+                "Meno": "Michal",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2022-03-02T00:00:00+01:00",
+                "Priezvisko": "Vrzgula",
+                "TitulPred": null,
+                "TitulZa": null
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "News and Media Holding a.s.",
+        "Partner": {
+            "CisloVlozky": 25307,
+            "Id": 27808
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2018-12-04T00:00:00+01:00",
+        "PravnaForma": {
+            "Id": 23,
+            "Meno": "Akciová spoločnosť",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "121"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "4 590",
+                "amt_eur_converted_clean": 4590.0,
+                "city": "Bratislava",
+                "company_name": "News and Media Holding, a.s.; IČO: 47256281",
+                "date": "12/12/2019",
+                "date_clean": "2019-12-12",
+                "donor_id": "Y0156",
+                "donor_key": "47256281",
+                "donor_type": "public sector partner",
+                "flags": [
+                    "vysoké súhrnné bezodplatné plnenie"
+                ],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2019/VS_00677639_I_20200730.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "SNS",
+                "year": "2019"
+            },
+            {
+                "amt_eur_converted": "3 420",
+                "amt_eur_converted_clean": 3420.0,
+                "city": "Bratislava",
+                "company_name": "News and Media Holding, a.s.; IČO: 47256281",
+                "date": "2/21/2020",
+                "date_clean": "2020-02-21",
+                "donor_id": "Y0156",
+                "donor_key": "47256281",
+                "donor_type": "public sector partner",
+                "flags": [
+                    "vysoké súhrnné bezodplatné plnenie"
+                ],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2020/VS_00677639_I_2020_20210727.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "SNS",
+                "year": "2020"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 116906,
+                    "Identifikator": null,
+                    "MenoUlice": "Einsteinova",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "25",
+                    "Psc": "851 01",
+                    "SupisneCislo": ""
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "47256281",
+                "ObchodneMeno": "News and Media Holding a.s.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2018-12-04T00:00:00+01:00",
+                "PravnaForma": "Akciová spoločnosť"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 114433,
+            "Identifikator": null,
+            "MenoUlice": "Sládkovičova",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "23",
+            "Psc": "97405",
+            "SupisneCislo": ""
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "36047139",
+        "Id": 112985,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1974-04-17T00:00:00+02:00",
+                "Ico": "",
+                "Id": 112987,
+                "JeVerejnyCinitel": false,
+                "Meno": "Mario",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2018-10-17T00:00:00+02:00",
+                "Priezvisko": "Fotopulos",
+                "TitulPred": null,
+                "TitulZa": null
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "SLOVINTER F, s.r.o.",
+        "Partner": {
+            "CisloVlozky": 24816,
+            "Id": 27309
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2018-10-17T00:00:00+02:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "3 500",
+                "amt_eur_converted_clean": 3500.0,
+                "city": "Banská Bystrica",
+                "company_name": "Slovinter F, s.r.o., IČO: 36047139",
+                "date": "5/12/2017",
+                "date_clean": "2017-05-12",
+                "donor_id": "Y0211",
+                "donor_key": "36047139",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2017/VS_42139333_I_2017_20180726.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "SAS",
+                "year": "2017"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 114433,
+                    "Identifikator": null,
+                    "MenoUlice": "Sládkovičova",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "23",
+                    "Psc": "97405",
+                    "SupisneCislo": ""
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "36047139",
+                "ObchodneMeno": "SLOVINTER F, s.r.o.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2018-10-17T00:00:00+02:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 99134,
+            "Identifikator": null,
+            "MenoUlice": "Lazaretská",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "12",
+            "Psc": "81108",
+            "SupisneCislo": ""
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "35790253",
+        "Id": 97516,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1969-08-30T00:00:00+02:00",
+                "Ico": "",
+                "Id": 97518,
+                "JeVerejnyCinitel": false,
+                "Meno": "Jaroslav",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2021-06-18T23:59:59.9+02:00",
+                "PlatnostOd": "2018-01-26T00:00:00+01:00",
+                "Priezvisko": "Haščák",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1969-07-18T00:00:00+02:00",
+                "Ico": "",
+                "Id": 97519,
+                "JeVerejnyCinitel": false,
+                "Meno": "Marek",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2021-06-18T23:59:59.9+02:00",
+                "PlatnostOd": "2018-01-26T00:00:00+01:00",
+                "Priezvisko": "Dospiva",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1963-03-20T00:00:00+01:00",
+                "Ico": "",
+                "Id": 177173,
+                "JeVerejnyCinitel": false,
+                "Meno": "Harlan Miles",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2022-02-09T23:59:59.9+01:00",
+                "PlatnostOd": "2021-06-19T00:00:00+02:00",
+                "Priezvisko": "Mandel",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1966-02-03T00:00:00+01:00",
+                "Ico": "",
+                "Id": 189369,
+                "JeVerejnyCinitel": false,
+                "Meno": "Alexej",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2022-02-10T00:00:00+01:00",
+                "Priezvisko": "Fulmek",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1969-03-23T00:00:00+01:00",
+                "Ico": "",
+                "Id": 189370,
+                "JeVerejnyCinitel": false,
+                "Meno": "Peter",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2022-02-10T00:00:00+01:00",
+                "Priezvisko": "Mačinga",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1976-04-02T00:00:00+02:00",
+                "Ico": "",
+                "Id": 189371,
+                "JeVerejnyCinitel": false,
+                "Meno": "Milan",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2022-02-10T00:00:00+01:00",
+                "Priezvisko": "Mokráň",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1983-11-22T00:00:00+01:00",
+                "Ico": "",
+                "Id": 189372,
+                "JeVerejnyCinitel": false,
+                "Meno": "Tomáš",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2022-11-21T23:59:59.9+01:00",
+                "PlatnostOd": "2022-02-10T00:00:00+01:00",
+                "Priezvisko": "Prokopčák",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1965-03-13T00:00:00+01:00",
+                "Ico": "",
+                "Id": 189373,
+                "JeVerejnyCinitel": false,
+                "Meno": "Ľubica",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2022-11-21T23:59:59.9+01:00",
+                "PlatnostOd": "2022-02-10T00:00:00+01:00",
+                "Priezvisko": "Tomková",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1983-11-22T00:00:00+01:00",
+                "Ico": "",
+                "Id": 205081,
+                "JeVerejnyCinitel": false,
+                "Meno": "Tomáš",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2022-11-22T00:00:00+01:00",
+                "Priezvisko": "Prokopčák",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1965-03-13T00:00:00+01:00",
+                "Ico": "",
+                "Id": 205082,
+                "JeVerejnyCinitel": false,
+                "Meno": "Ľubica",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2022-11-22T00:00:00+01:00",
+                "Priezvisko": "Tomková",
+                "TitulPred": null,
+                "TitulZa": null
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "Petit Press, a.s.",
+        "Partner": {
+            "CisloVlozky": 21971,
+            "Id": 24440
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2018-01-26T00:00:00+01:00",
+        "PravnaForma": {
+            "Id": 23,
+            "Meno": "Akciová spoločnosť",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "121"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "11 062",
+                "amt_eur_converted_clean": 11062.0,
+                "city": "Bratislava",
+                "company_name": "Petit Press, a.s. divízia týždenníkov, o.z.; IČO: 35790253",
+                "date": "2/26/2020",
+                "date_clean": "2020-02-26",
+                "donor_id": "Y0176",
+                "donor_key": "35790253",
+                "donor_type": "public sector partner",
+                "flags": [
+                    "vysoké bezodplatné plnenie",
+                    "vysoké súhrnné bezodplatné plnenie"
+                ],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2020/VS_00677639_I_2020_20210727.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "SNS",
+                "year": "2020"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 99134,
+                    "Identifikator": null,
+                    "MenoUlice": "Lazaretská",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "12",
+                    "Psc": "81108",
+                    "SupisneCislo": ""
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "35790253",
+                "ObchodneMeno": "Petit Press, a.s.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2018-01-26T00:00:00+01:00",
+                "PravnaForma": "Akciová spoločnosť"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 93848,
+            "Identifikator": null,
+            "MenoUlice": "",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "",
+            "Psc": "92501",
+            "SupisneCislo": "120"
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "50846981",
+        "Id": 92177,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1990-07-26T00:00:00+02:00",
+                "Ico": "",
+                "Id": 92179,
+                "JeVerejnyCinitel": false,
+                "Meno": "Dominika",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2017-12-01T00:00:00+01:00",
+                "Priezvisko": "Zelenáková",
+                "TitulPred": "Mgr.",
+                "TitulZa": ""
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "NELDAN s.r.o.",
+        "Partner": {
+            "CisloVlozky": 21060,
+            "Id": 23520
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2017-12-01T00:00:00+01:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "264",
+                "amt_eur_converted_clean": 264.0,
+                "city": "Matúškovo",
+                "company_name": "NELDAN, s.r.o.; IČO: 50846981",
+                "date": "2020",
+                "date_clean": "2020",
+                "donor_id": "Y0154",
+                "donor_key": "50846981",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "reklamné plochy",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2020/VS_42287511_I_2020_20210727.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "OĽANO",
+                "year": "2020"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 93848,
+                    "Identifikator": null,
+                    "MenoUlice": "",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "",
+                    "Psc": "92501",
+                    "SupisneCislo": "120"
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "50846981",
+                "ObchodneMeno": "NELDAN s.r.o.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2017-12-01T00:00:00+01:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 79514,
+            "Identifikator": null,
+            "MenoUlice": "Bajzova",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "13",
+            "Psc": "90031",
+            "SupisneCislo": "1997"
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "45485470",
+        "Id": 78907,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1979-02-23T00:00:00+01:00",
+                "Ico": "",
+                "Id": 78909,
+                "JeVerejnyCinitel": false,
+                "Meno": "Tomáš",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2017-08-15T00:00:00+02:00",
+                "Priezvisko": "Vlachovič",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1974-12-16T00:00:00+01:00",
+                "Ico": "",
+                "Id": 78910,
+                "JeVerejnyCinitel": false,
+                "Meno": "Martin",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2017-08-15T00:00:00+02:00",
+                "Priezvisko": "Veltschmid",
+                "TitulPred": "Bc.",
+                "TitulZa": ""
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "VaV Trans s.r.o.",
+        "Partner": {
+            "CisloVlozky": 18735,
+            "Id": 19117
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2017-08-15T00:00:00+02:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "500",
+                "amt_eur_converted_clean": 500.0,
+                "city": "Stupava",
+                "company_name": "Vav Trans s.r.o.",
+                "date": "2016",
+                "date_clean": "2016",
+                "donor_id": "Y0250",
+                "donor_key": "vav trans s.r.o.",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2016/VS_42362644_I_2016_20170725.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "Sieť",
+                "year": "2016"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 79514,
+                    "Identifikator": null,
+                    "MenoUlice": "Bajzova",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "13",
+                    "Psc": "90031",
+                    "SupisneCislo": "1997"
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "45485470",
+                "ObchodneMeno": "VaV Trans s.r.o.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2017-08-15T00:00:00+02:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 77740,
+            "Identifikator": null,
+            "MenoUlice": "Poľovnícka",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "29",
+            "Psc": "97401",
+            "SupisneCislo": ""
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "36040151",
+        "Id": 77154,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1971-08-08T00:00:00+02:00",
+                "Ico": "",
+                "Id": 77156,
+                "JeVerejnyCinitel": true,
+                "Meno": "Jaroslav",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2018-12-03T23:59:59.9+01:00",
+                "PlatnostOd": "2017-08-10T00:00:00+02:00",
+                "Priezvisko": "Kuracina",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1971-08-08T00:00:00+02:00",
+                "Ico": "",
+                "Id": 115540,
+                "JeVerejnyCinitel": false,
+                "Meno": "Jaroslav",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2018-12-04T00:00:00+01:00",
+                "Priezvisko": "Kuracina",
+                "TitulPred": null,
+                "TitulZa": null
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "GRAND POWER, s.r.o.",
+        "Partner": {
+            "CisloVlozky": 18466,
+            "Id": 18838
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2017-08-10T00:00:00+02:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "250",
+                "amt_eur_converted_clean": 250.0,
+                "city": "Banská Bystrica",
+                "company_name": "GRAND POWER, s.r.o.",
+                "date": "2/16/2016",
+                "date_clean": "2016-02-16",
+                "donor_id": "Y0094",
+                "donor_key": "grand power, s.r.o.",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2016/VS_36127175_I_2016_20170725.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "LSNS",
+                "year": "2016"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 77740,
+                    "Identifikator": null,
+                    "MenoUlice": "Poľovnícka",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "29",
+                    "Psc": "97401",
+                    "SupisneCislo": ""
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "36040151",
+                "ObchodneMeno": "GRAND POWER, s.r.o.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2017-08-10T00:00:00+02:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 51076,
+            "Identifikator": null,
+            "MenoUlice": "Bytčická",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "3492",
+            "Psc": "01001",
+            "SupisneCislo": "16"
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "31621252",
+        "Id": 51272,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": null,
+                "Ico": null,
+                "Id": 26380,
+                "JeVerejnyCinitel": false,
+                "Meno": "Ján",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2017-07-07T23:59:59.9+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "Priezvisko": "Majerský",
+                "TitulPred": "Ing., PhD.",
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1959-08-04T00:00:00+02:00",
+                "Ico": "",
+                "Id": 51274,
+                "JeVerejnyCinitel": false,
+                "Meno": "Ján",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2017-07-08T00:00:00+02:00",
+                "Priezvisko": "Majerský",
+                "TitulPred": "Ing.",
+                "TitulZa": "PhD."
+            },
+            {
+                "DatumNarodenia": "1959-09-30T00:00:00+02:00",
+                "Ico": "",
+                "Id": 51275,
+                "JeVerejnyCinitel": false,
+                "Meno": "Beáta",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2018-07-02T23:59:59.9+02:00",
+                "PlatnostOd": "2017-07-08T00:00:00+02:00",
+                "Priezvisko": "Majerská ",
+                "TitulPred": "Ing. ",
+                "TitulZa": ""
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "PROMA, s.r.o.",
+        "Partner": {
+            "CisloVlozky": 9703,
+            "Id": 9703
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2017-07-08T00:00:00+02:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "498",
+                "amt_eur_converted_clean": 498.0,
+                "city": "Žilina",
+                "company_name": "PROMA, s.r.o.",
+                "date": "2003",
+                "date_clean": "2003",
+                "donor_id": "Y0191",
+                "donor_key": "proma, s.r.o.",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.strana-smer.sk/o-nas/financovanie",
+                "name_lastname": "",
+                "note": "prepočítané kurzom 30,126 SKK=1 euro",
+                "party": "SMER",
+                "year": "2003"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 51076,
+                    "Identifikator": null,
+                    "MenoUlice": "Bytčická",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "3492",
+                    "Psc": "01001",
+                    "SupisneCislo": "16"
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "31621252",
+                "ObchodneMeno": "PROMA, s.r.o.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2017-07-08T00:00:00+02:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            },
+            {
+                "Adresa": {
+                    "Id": 26378,
+                    "Identifikator": null,
+                    "MenoUlice": "Bytčická",
+                    "Mesto": "Žilina",
+                    "MestoKod": null,
+                    "OrientacneCislo": "16/3492",
+                    "Psc": "01001",
+                    "SupisneCislo": null
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "31621252",
+                "ObchodneMeno": "PROMA, s.r.o.",
+                "PlatnostDo": "2017-07-07T23:59:59.9+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 36287,
+            "Identifikator": null,
+            "MenoUlice": "Uránová",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "2",
+            "Psc": "82102",
+            "SupisneCislo": ""
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "36658197",
+        "Id": 36344,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1974-03-12T00:00:00+01:00",
+                "Ico": "",
+                "Id": 36346,
+                "JeVerejnyCinitel": false,
+                "Meno": "Peter",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2019-01-09T23:59:59.9+01:00",
+                "PlatnostOd": "2017-05-13T00:00:00+02:00",
+                "Priezvisko": "Lamač",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1974-03-12T00:00:00+01:00",
+                "Ico": "",
+                "Id": 117566,
+                "JeVerejnyCinitel": false,
+                "Meno": "Peter",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2020-08-07T23:59:59.9+02:00",
+                "PlatnostOd": "2019-01-10T00:00:00+01:00",
+                "Priezvisko": "Lamač",
+                "TitulPred": "PhDr.",
+                "TitulZa": ""
+            },
+            {
+                "DatumNarodenia": "1985-09-30T00:00:00+02:00",
+                "Ico": "",
+                "Id": 117567,
+                "JeVerejnyCinitel": false,
+                "Meno": "Ivan",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2020-08-07T23:59:59.9+02:00",
+                "PlatnostOd": "2019-01-10T00:00:00+01:00",
+                "Priezvisko": "Masaryk",
+                "TitulPred": null,
+                "TitulZa": null
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "LP Promotion, s.r.o.",
+        "Partner": {
+            "CisloVlozky": 12189,
+            "Id": 12197
+        },
+        "PlatnostDo": "2020-08-07T23:59:59.9+02:00",
+        "PlatnostOd": "2017-05-13T00:00:00+02:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "16 327",
+                "amt_eur_converted_clean": 16327.0,
+                "city": "Bratislava",
+                "company_name": "LP Promotion, s.r.o.",
+                "date": "2016",
+                "date_clean": "2016",
+                "donor_id": "Y0280",
+                "donor_key": "lp promotion, s.r.o.",
+                "donor_type": "public sector partner",
+                "flags": [
+                    "vysoké bezodplatné plnenie",
+                    "vysoké súhrnné bezodplatné plnenie"
+                ],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2016/VS_42362644_I_2016_20170725.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "Sieť",
+                "year": "2016"
+            },
+            {
+                "amt_eur_converted": "114 209",
+                "amt_eur_converted_clean": 114209.0,
+                "city": "Bratislava",
+                "company_name": "LP Promotion, s.r.o.",
+                "date": "2016",
+                "date_clean": "2016",
+                "donor_id": "Y0280",
+                "donor_key": "lp promotion, s.r.o.",
+                "donor_type": "public sector partner",
+                "flags": [
+                    "vysoké bezodplatné plnenie",
+                    "vysoké súhrnné bezodplatné plnenie"
+                ],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2016/VS_42362644_I_2016_20170725.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "Sieť",
+                "year": "2016"
+            },
+            {
+                "amt_eur_converted": "24 010",
+                "amt_eur_converted_clean": 24010.0,
+                "city": "Bratislava",
+                "company_name": "LP Promotion, s.r.o.",
+                "date": "2016",
+                "date_clean": "2016",
+                "donor_id": "Y0280",
+                "donor_key": "lp promotion, s.r.o.",
+                "donor_type": "public sector partner",
+                "flags": [
+                    "vysoké bezodplatné plnenie",
+                    "vysoké súhrnné bezodplatné plnenie"
+                ],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2016/VS_42362644_I_2016_20170725.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "Sieť",
+                "year": "2016"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 36287,
+                    "Identifikator": null,
+                    "MenoUlice": "Uránová",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "2",
+                    "Psc": "82102",
+                    "SupisneCislo": ""
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "36658197",
+                "ObchodneMeno": "LP Promotion, s.r.o.",
+                "PlatnostDo": "2020-08-07T23:59:59.9+02:00",
+                "PlatnostOd": "2017-05-13T00:00:00+02:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 33930,
+            "Identifikator": null,
+            "MenoUlice": "Hviezdoslavova",
+            "Mesto": null,
+            "MestoKod": null,
+            "OrientacneCislo": "22",
+            "Psc": "92042",
+            "SupisneCislo": "0"
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "31404596",
+        "Id": 33966,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": "1954-12-01T00:00:00+01:00",
+                "Ico": "",
+                "Id": 33968,
+                "JeVerejnyCinitel": false,
+                "Meno": "Milan",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2017-04-25T00:00:00+02:00",
+                "Priezvisko": "Mihálik",
+                "TitulPred": "Ing.",
+                "TitulZa": ""
+            },
+            {
+                "DatumNarodenia": "1939-05-13T00:00:00+02:00",
+                "Ico": "",
+                "Id": 33969,
+                "JeVerejnyCinitel": false,
+                "Meno": "Jozef",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2017-04-25T00:00:00+02:00",
+                "Priezvisko": "Kocanda",
+                "TitulPred": "Ing.",
+                "TitulZa": "CSc."
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "ENERGOTERM, a.s.",
+        "Partner": {
+            "CisloVlozky": 11745,
+            "Id": 11747
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2017-04-25T00:00:00+02:00",
+        "PravnaForma": {
+            "Id": 23,
+            "Meno": "Akciová spoločnosť",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "121"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "1 660",
+                "amt_eur_converted_clean": 1660.0,
+                "city": "Bratislava",
+                "company_name": "ENERGOTERM, a.s.",
+                "date": "2003",
+                "date_clean": "2003",
+                "donor_id": "Y0074",
+                "donor_key": "energoterm, a.s.",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.strana-smer.sk/o-nas/financovanie",
+                "name_lastname": "",
+                "note": "prepočítané kurzom 30,126 SKK=1 euro",
+                "party": "SMER",
+                "year": "2003"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 33930,
+                    "Identifikator": null,
+                    "MenoUlice": "Hviezdoslavova",
+                    "Mesto": null,
+                    "MestoKod": null,
+                    "OrientacneCislo": "22",
+                    "Psc": "92042",
+                    "SupisneCislo": "0"
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "31404596",
+                "ObchodneMeno": "ENERGOTERM, a.s.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2017-04-25T00:00:00+02:00",
+                "PravnaForma": "Akciová spoločnosť"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 32729,
+            "Identifikator": null,
+            "MenoUlice": "Bratislavská",
+            "Mesto": "Trenčín",
+            "MestoKod": null,
+            "OrientacneCislo": "614",
+            "Psc": "91105",
+            "SupisneCislo": null
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "36319449",
+        "Id": 32748,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": null,
+                "Ico": null,
+                "Id": 32749,
+                "JeVerejnyCinitel": false,
+                "Meno": "Peter",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2017-07-19T23:59:59.9+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "Priezvisko": "Kútny",
+                "TitulPred": "Ing.",
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": null,
+                "Ico": null,
+                "Id": 32750,
+                "JeVerejnyCinitel": false,
+                "Meno": "Tomáš",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2017-07-19T23:59:59.9+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "Priezvisko": "Kútny",
+                "TitulPred": "Ing.",
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1970-12-25T00:00:00+01:00",
+                "Ico": "",
+                "Id": 59968,
+                "JeVerejnyCinitel": false,
+                "Meno": "Peter",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2017-07-20T00:00:00+02:00",
+                "Priezvisko": "Kútny",
+                "TitulPred": "Ing.",
+                "TitulZa": ""
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "tnTEL, s.r.o.",
+        "Partner": {
+            "CisloVlozky": 10288,
+            "Id": 10288
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2017-02-01T00:00:00+01:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "415",
+                "amt_eur_converted_clean": 415.0,
+                "city": "Trenčín",
+                "company_name": "tnTEL, s.r.o.",
+                "date": "12/5/2008",
+                "date_clean": "2008-12-05",
+                "donor_id": "Y0240",
+                "donor_key": "tntel, s.r.o.",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "finančný dar",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.nrsr.sk/web/Static/sk-SK/Finance/2008/SMER.pdf",
+                "name_lastname": "",
+                "note": "prepočítané kurzom 30,126 SKK=1 euro",
+                "party": "SMER",
+                "year": "2008"
+            },
+            {
+                "amt_eur_converted": "1 105",
+                "amt_eur_converted_clean": 1105.0,
+                "city": "Trenčín",
+                "company_name": "tnTEL, s.r.o.",
+                "date": "12/5/2008",
+                "date_clean": "2008-12-05",
+                "donor_id": "Y0240",
+                "donor_key": "tntel, s.r.o.",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "finančný dar",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.nrsr.sk/web/Static/sk-SK/Finance/2008/SMER.pdf",
+                "name_lastname": "",
+                "note": "prepočítané kurzom 30,126 SKK=1 euro",
+                "party": "SMER",
+                "year": "2008"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 32729,
+                    "Identifikator": null,
+                    "MenoUlice": "Bratislavská",
+                    "Mesto": "Trenčín",
+                    "MestoKod": null,
+                    "OrientacneCislo": "614",
+                    "Psc": "91105",
+                    "SupisneCislo": null
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "36319449",
+                "ObchodneMeno": "tnTEL, s.r.o.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 27166,
+            "Identifikator": null,
+            "MenoUlice": "Šoltésova",
+            "Mesto": "Považská Bystrica",
+            "MestoKod": null,
+            "OrientacneCislo": "421",
+            "Psc": "01701",
+            "SupisneCislo": null
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "36316202",
+        "Id": 27167,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": null,
+                "Ico": null,
+                "Id": 27168,
+                "JeVerejnyCinitel": false,
+                "Meno": "Ľubica",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2017-09-25T00:00:00+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "Priezvisko": "Haviarová",
+                "TitulPred": null,
+                "TitulZa": null
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "G 3 Plus, s.r.o.",
+        "Partner": {
+            "CisloVlozky": 9921,
+            "Id": 9921
+        },
+        "PlatnostDo": "2017-09-25T00:00:00+02:00",
+        "PlatnostOd": "2017-02-01T00:00:00+01:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "332",
+                "amt_eur_converted_clean": 332.0,
+                "city": "Považská Bystrica",
+                "company_name": "C 3 PLUS s.r.o., IČO: 36316202",
+                "date": "12/31/2005",
+                "date_clean": "2005-12-31",
+                "donor_id": "Y0038",
+                "donor_key": "36316202",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "finančný dar",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.nrsr.sk/web/Static/sk-SK/Finance/2005/SNS.pdf",
+                "name_lastname": "",
+                "note": "prepočítané kurzom 30,126 SKK=1 euro",
+                "party": "SNS",
+                "year": "2005"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 27166,
+                    "Identifikator": null,
+                    "MenoUlice": "Šoltésova",
+                    "Mesto": "Považská Bystrica",
+                    "MestoKod": null,
+                    "OrientacneCislo": "421",
+                    "Psc": "01701",
+                    "SupisneCislo": null
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "36316202",
+                "ObchodneMeno": "G 3 Plus, s.r.o.",
+                "PlatnostDo": "2017-09-25T00:00:00+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 25587,
+            "Identifikator": null,
+            "MenoUlice": "Saleziánska",
+            "Mesto": "Žilina",
+            "MestoKod": null,
+            "OrientacneCislo": "10",
+            "Psc": "01001",
+            "SupisneCislo": null
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "44624948",
+        "Id": 25588,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": null,
+                "Ico": null,
+                "Id": 25589,
+                "JeVerejnyCinitel": false,
+                "Meno": "Branislav",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2017-09-25T00:00:00+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "Priezvisko": "Jakubov",
+                "TitulPred": "Ing.",
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": null,
+                "Ico": null,
+                "Id": 25590,
+                "JeVerejnyCinitel": false,
+                "Meno": "Mária",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2017-09-25T00:00:00+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "Priezvisko": "Belinská",
+                "TitulPred": "Ing.",
+                "TitulZa": null
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "Auto Becchi, s. r. o.",
+        "Partner": {
+            "CisloVlozky": 9439,
+            "Id": 9439
+        },
+        "PlatnostDo": "2017-09-25T00:00:00+02:00",
+        "PlatnostOd": "2017-02-01T00:00:00+01:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "16",
+                "amt_eur_converted_clean": 16.0,
+                "city": "Žilina",
+                "company_name": "Auto Becchi, s. r. o.",
+                "date": "8/24/2021",
+                "date_clean": "2021-08-24",
+                "donor_id": "Y0024",
+                "donor_key": "auto becchi, s. r. o.",
+                "donor_type": "public sector partner",
+                "flags": [
+                    "vysoké súhrnné bezodplatné plnenie"
+                ],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2021/VS21_R_KDH.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "KDH",
+                "year": "2021"
+            },
+            {
+                "amt_eur_converted": "70 000",
+                "amt_eur_converted_clean": 70000.0,
+                "city": "Žilina",
+                "company_name": "Auto Becchi, s. r. o.",
+                "date": "9/10/2021",
+                "date_clean": "2021-09-10",
+                "donor_id": "Y0024",
+                "donor_key": "auto becchi, s. r. o.",
+                "donor_type": "public sector partner",
+                "flags": [
+                    "vysoké bezodplatné plnenie",
+                    "vysoké súhrnné bezodplatné plnenie"
+                ],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2021/VS21_R_KDH.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "KDH",
+                "year": "2021"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 25587,
+                    "Identifikator": null,
+                    "MenoUlice": "Saleziánska",
+                    "Mesto": "Žilina",
+                    "MestoKod": null,
+                    "OrientacneCislo": "10",
+                    "Psc": "01001",
+                    "SupisneCislo": null
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "44624948",
+                "ObchodneMeno": "Auto Becchi, s. r. o.",
+                "PlatnostDo": "2017-09-25T00:00:00+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 18634,
+            "Identifikator": null,
+            "MenoUlice": "Lazaretská",
+            "Mesto": "Bratislava 1",
+            "MestoKod": null,
+            "OrientacneCislo": "12",
+            "Psc": "81108",
+            "SupisneCislo": null
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "35790253",
+        "Id": 18635,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": null,
+                "Ico": null,
+                "Id": 18636,
+                "JeVerejnyCinitel": false,
+                "Meno": "Peter",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2017-09-25T00:00:00+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "Priezvisko": "Vajda",
+                "TitulPred": "Ing.",
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": null,
+                "Ico": null,
+                "Id": 18637,
+                "JeVerejnyCinitel": false,
+                "Meno": "Vladimír",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2017-09-25T00:00:00+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "Priezvisko": "Rajčák",
+                "TitulPred": "Ing.",
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": null,
+                "Ico": null,
+                "Id": 18638,
+                "JeVerejnyCinitel": false,
+                "Meno": "Jozef",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2017-09-25T00:00:00+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "Priezvisko": "Grnáčik",
+                "TitulPred": "Ing.",
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": null,
+                "Ico": null,
+                "Id": 18639,
+                "JeVerejnyCinitel": false,
+                "Meno": "Igor",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2017-09-25T00:00:00+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "Priezvisko": "Grošaft",
+                "TitulPred": "Ing.",
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": null,
+                "Ico": null,
+                "Id": 18640,
+                "JeVerejnyCinitel": false,
+                "Meno": "Ivan",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2017-09-25T00:00:00+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "Priezvisko": "Sámel",
+                "TitulPred": "Mgr.",
+                "TitulZa": null
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "Petit Press, a.s.",
+        "Partner": {
+            "CisloVlozky": 6963,
+            "Id": 6963
+        },
+        "PlatnostDo": "2017-09-25T00:00:00+02:00",
+        "PlatnostOd": "2017-02-01T00:00:00+01:00",
+        "PravnaForma": {
+            "Id": 23,
+            "Meno": "Akciová spoločnosť",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "121"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "11 062",
+                "amt_eur_converted_clean": 11062.0,
+                "city": "Bratislava",
+                "company_name": "Petit Press, a.s. divízia týždenníkov, o.z.; IČO: 35790253",
+                "date": "2/26/2020",
+                "date_clean": "2020-02-26",
+                "donor_id": "Y0176",
+                "donor_key": "35790253",
+                "donor_type": "public sector partner",
+                "flags": [
+                    "vysoké bezodplatné plnenie",
+                    "vysoké súhrnné bezodplatné plnenie"
+                ],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2020/VS_00677639_I_2020_20210727.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "SNS",
+                "year": "2020"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 18634,
+                    "Identifikator": null,
+                    "MenoUlice": "Lazaretská",
+                    "Mesto": "Bratislava 1",
+                    "MestoKod": null,
+                    "OrientacneCislo": "12",
+                    "Psc": "81108",
+                    "SupisneCislo": null
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "35790253",
+                "ObchodneMeno": "Petit Press, a.s.",
+                "PlatnostDo": "2017-09-25T00:00:00+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "PravnaForma": "Akciová spoločnosť"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 17227,
+            "Identifikator": null,
+            "MenoUlice": "ul. Trate mládeže",
+            "Mesto": "Banská Štiavnica",
+            "MestoKod": null,
+            "OrientacneCislo": "9/A",
+            "Psc": "96901",
+            "SupisneCislo": null
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "36014354",
+        "Id": 17228,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": null,
+                "Ico": null,
+                "Id": 17229,
+                "JeVerejnyCinitel": false,
+                "Meno": "Miloš",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2017-07-10T23:59:59.9+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "Priezvisko": "Šimek",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": null,
+                "Ico": null,
+                "Id": 17230,
+                "JeVerejnyCinitel": false,
+                "Meno": "Milan",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2017-07-10T23:59:59.9+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "Priezvisko": "Korgo",
+                "TitulPred": "Ing.",
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1961-04-26T00:00:00+02:00",
+                "Ico": "",
+                "Id": 52435,
+                "JeVerejnyCinitel": false,
+                "Meno": "Miloš",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2021-03-25T23:59:59.9+01:00",
+                "PlatnostOd": "2017-07-11T00:00:00+02:00",
+                "Priezvisko": "Šimek",
+                "TitulPred": null,
+                "TitulZa": null
+            },
+            {
+                "DatumNarodenia": "1961-08-07T00:00:00+02:00",
+                "Ico": "",
+                "Id": 52436,
+                "JeVerejnyCinitel": false,
+                "Meno": "Milan",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2019-08-08T23:59:59.9+02:00",
+                "PlatnostOd": "2017-07-11T00:00:00+02:00",
+                "Priezvisko": "Korgo",
+                "TitulPred": "Ing.",
+                "TitulZa": ""
+            },
+            {
+                "DatumNarodenia": "1985-06-28T00:00:00+02:00",
+                "Ico": "",
+                "Id": 143537,
+                "JeVerejnyCinitel": false,
+                "Meno": "Michal",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2021-03-25T23:59:59.9+01:00",
+                "PlatnostOd": "2020-01-08T00:00:00+01:00",
+                "Priezvisko": "Korgo",
+                "TitulPred": "Ing.",
+                "TitulZa": ""
+            },
+            {
+                "DatumNarodenia": "1961-04-26T00:00:00+02:00",
+                "Ico": "",
+                "Id": 173279,
+                "JeVerejnyCinitel": false,
+                "Meno": "Miloš",
+                "ObchodneMeno": null,
+                "PlatnostDo": null,
+                "PlatnostOd": "2021-03-26T00:00:00+01:00",
+                "Priezvisko": "Šimek",
+                "TitulPred": null,
+                "TitulZa": null
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "SimKor s.r.o.",
+        "Partner": {
+            "CisloVlozky": 6450,
+            "Id": 6450
+        },
+        "PlatnostDo": null,
+        "PlatnostOd": "2017-02-01T00:00:00+01:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "398",
+                "amt_eur_converted_clean": 398.0,
+                "city": "Banská Štiavnica",
+                "company_name": "SIMKOR s.r.o.",
+                "date": "2002",
+                "date_clean": "2002",
+                "donor_id": "Y0206",
+                "donor_key": "simkor s.r.o.",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "",
+                "income_type": "",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.strana-smer.sk/o-nas/financovanie",
+                "name_lastname": "",
+                "note": "prepočítané kurzom 30,126 SKK=1 euro",
+                "party": "SMER",
+                "year": "2002"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 17227,
+                    "Identifikator": null,
+                    "MenoUlice": "ul. Trate mládeže",
+                    "Mesto": "Banská Štiavnica",
+                    "MestoKod": null,
+                    "OrientacneCislo": "9/A",
+                    "Psc": "96901",
+                    "SupisneCislo": null
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "36014354",
+                "ObchodneMeno": "SimKor s.r.o.",
+                "PlatnostDo": null,
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 12439,
+            "Identifikator": null,
+            "MenoUlice": "Nábr. M. R. Štefánika",
+            "Mesto": "Ružomberok",
+            "MestoKod": null,
+            "OrientacneCislo": "2432/1",
+            "Psc": "03401",
+            "SupisneCislo": null
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "44353880",
+        "Id": 12440,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": null,
+                "Ico": null,
+                "Id": 12441,
+                "JeVerejnyCinitel": false,
+                "Meno": "Ľuboš",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2017-09-25T00:00:00+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "Priezvisko": "Královenský",
+                "TitulPred": null,
+                "TitulZa": null
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "ABOSS, s.r.o.",
+        "Partner": {
+            "CisloVlozky": 4804,
+            "Id": 4804
+        },
+        "PlatnostDo": "2017-09-25T00:00:00+02:00",
+        "PlatnostOd": "2017-02-01T00:00:00+01:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "3 600",
+                "amt_eur_converted_clean": 3600.0,
+                "city": "Ružomberok",
+                "company_name": "ABOSS s.r.o., IČO: 44353880",
+                "date": "1/15/2020",
+                "date_clean": "2020-01-15",
+                "donor_id": "Y0004",
+                "donor_key": "44353880",
+                "donor_type": "public sector partner",
+                "flags": [],
+                "fulfillment_type": "prenájom megaboardu",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2020/VS_42254515_I_2020_20210727.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "SME RODINA",
+                "year": "2020"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 12439,
+                    "Identifikator": null,
+                    "MenoUlice": "Nábr. M. R. Štefánika",
+                    "Mesto": "Ružomberok",
+                    "MestoKod": null,
+                    "OrientacneCislo": "2432/1",
+                    "Psc": "03401",
+                    "SupisneCislo": null
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "44353880",
+                "ObchodneMeno": "ABOSS, s.r.o.",
+                "PlatnostDo": "2017-09-25T00:00:00+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    },
+    {
+        "Adresa": {
+            "Id": 11428,
+            "Identifikator": null,
+            "MenoUlice": "Uránová",
+            "Mesto": "Bratislava-Ružinov",
+            "MestoKod": null,
+            "OrientacneCislo": "2",
+            "Psc": "82102",
+            "SupisneCislo": null
+        },
+        "DatumNarodenia": null,
+        "FormaOsoby": "PravnickaOsoba",
+        "Ico": "36658197",
+        "Id": 11429,
+        "KonecniUzivateliaVyhod": [
+            {
+                "DatumNarodenia": null,
+                "Ico": null,
+                "Id": 11430,
+                "JeVerejnyCinitel": false,
+                "Meno": "Peter",
+                "ObchodneMeno": null,
+                "PlatnostDo": "2017-10-12T13:23:35.1+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "Priezvisko": "Lamač",
+                "TitulPred": null,
+                "TitulZa": null
+            }
+        ],
+        "Meno": null,
+        "ObchodneMeno": "LP Promotion, s.r.o.",
+        "Partner": {
+            "CisloVlozky": 4439,
+            "Id": 4439
+        },
+        "PlatnostDo": "2017-10-12T13:23:35.1+02:00",
+        "PlatnostOd": "2017-02-01T00:00:00+01:00",
+        "PravnaForma": {
+            "Id": 14,
+            "Meno": "Spoločnosť s ručením obmedzeným",
+            "PlatnostDo": null,
+            "PlatnostOd": "1991-01-01T00:00:00+01:00",
+            "StatistickyKod": "112"
+        },
+        "Priezvisko": null,
+        "TitulPred": null,
+        "TitulZa": null,
+        "donations": [
+            {
+                "amt_eur_converted": "16 327",
+                "amt_eur_converted_clean": 16327.0,
+                "city": "Bratislava",
+                "company_name": "LP Promotion, s.r.o.",
+                "date": "2016",
+                "date_clean": "2016",
+                "donor_id": "Y0280",
+                "donor_key": "lp promotion, s.r.o.",
+                "donor_type": "public sector partner",
+                "flags": [
+                    "vysoké bezodplatné plnenie",
+                    "vysoké súhrnné bezodplatné plnenie"
+                ],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2016/VS_42362644_I_2016_20170725.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "Sieť",
+                "year": "2016"
+            },
+            {
+                "amt_eur_converted": "114 209",
+                "amt_eur_converted_clean": 114209.0,
+                "city": "Bratislava",
+                "company_name": "LP Promotion, s.r.o.",
+                "date": "2016",
+                "date_clean": "2016",
+                "donor_id": "Y0280",
+                "donor_key": "lp promotion, s.r.o.",
+                "donor_type": "public sector partner",
+                "flags": [
+                    "vysoké bezodplatné plnenie",
+                    "vysoké súhrnné bezodplatné plnenie"
+                ],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2016/VS_42362644_I_2016_20170725.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "Sieť",
+                "year": "2016"
+            },
+            {
+                "amt_eur_converted": "24 010",
+                "amt_eur_converted_clean": 24010.0,
+                "city": "Bratislava",
+                "company_name": "LP Promotion, s.r.o.",
+                "date": "2016",
+                "date_clean": "2016",
+                "donor_id": "Y0280",
+                "donor_key": "lp promotion, s.r.o.",
+                "donor_type": "public sector partner",
+                "flags": [
+                    "vysoké bezodplatné plnenie",
+                    "vysoké súhrnné bezodplatné plnenie"
+                ],
+                "fulfillment_type": "",
+                "income_type": "bezodplatné plnenie",
+                "is_public_partner": true,
+                "is_public_partner_bo": false,
+                "link": "https://www.minv.sk/swift_data/source/statna_komisia_pre_volby/30_annual_report/ar2016/VS_42362644_I_2016_20170725.pdf",
+                "name_lastname": "",
+                "note": "",
+                "party": "Sieť",
+                "year": "2016"
+            }
+        ],
+        "partnerIdentities": [
+            {
+                "Adresa": {
+                    "Id": 11428,
+                    "Identifikator": null,
+                    "MenoUlice": "Uránová",
+                    "Mesto": "Bratislava-Ružinov",
+                    "MestoKod": null,
+                    "OrientacneCislo": "2",
+                    "Psc": "82102",
+                    "SupisneCislo": null
+                },
+                "FormaOsoby": "PravnickaOsoba",
+                "Ico": "36658197",
+                "ObchodneMeno": "LP Promotion, s.r.o.",
+                "PlatnostDo": "2017-10-12T13:23:35.1+02:00",
+                "PlatnostOd": "2017-02-01T00:00:00+01:00",
+                "PravnaForma": "Spoločnosť s ručením obmedzeným"
+            }
+        ]
+    }
+]
